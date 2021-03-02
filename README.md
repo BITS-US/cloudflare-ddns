@@ -1,4 +1,4 @@
-# CloudFlare DDNS
+## CloudFlare DDNS
 
 This small script that will allow you to use the free [CloudFlare DNS Service](https://www.cloudflare.com/dns/) as a Dynamic DNS Provider ([DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS)).
 
